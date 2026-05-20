@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 4aefcd0c42390b040a186ce30bd8e568
+  productGUID: 6653ed3402bae7443a9e138be28c90bc
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 14-3DTemplateUnityPRJ-ktykhankova
+  productName: 14-object-pooling-ktykhankova1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -841,14 +841,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 14-3DTemplateUnityPRJ-ktykhankova
+  metroPackageName: 14-object-pooling-ktykhankova1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 14-3DTemplateUnityPRJ-ktykhankova
+  metroApplicationDescription: 14-object-pooling-ktykhankova1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -919,10 +919,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 6f4d18f7-555a-4fff-ba9e-c729e3432bcb
+  cloudProjectId: b99002b6-1438-43f4-bb9a-921dc99cfde9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 14-3DTemplateUnityPRJ-ktykhankova
+  projectName: 14-object-pooling-ktykhankova1
   organizationId: karinakarkar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
