@@ -1,0 +1,14 @@
+##Issue 3: Feature Branch Workflow
+Beschreibung
+Einen neuen lokalen Branch erstellen, eine Änderung vornehmen und diesen sauber über einen Pull Request (PR) auf GitHub in den Main-Branch integrieren.
+
+Acceptance Criteria
+[Ein neuer Branch mit dem Namen feature/add-contribution-guide wurde lokal erstellt]
+
+[Eine neue Datei CONTRIBUTING.md wurde in diesem Branch angelegt und mit Inhalt gefüllt]
+
+[Der Branch wurde auf GitHub hochgeladen (git push -u origin...)]
+
+[Auf GitHub wurde ein Pull Request geöffnet]
+
+[Der Pull Request wurde ohne Konflikte in den main-Branch gemerged]
